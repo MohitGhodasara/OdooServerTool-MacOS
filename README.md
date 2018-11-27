@@ -5,8 +5,8 @@
 <br />
 
 ## How to Run
-    * unzip server.zip file and Just need to double click on server file inside
-    * if its not launching you can run it from terminal and see what is wrong.
+* unzip server.zip file and Just need to double click on server file inside
+* if its not launching you can run it from terminal and see what is wrong.
 
 <br />
 
